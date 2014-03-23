@@ -1,9 +1,8 @@
 <?php
 /**
- *
+ * ${1:`!v expand("%:h:t")`}
  */
 
-namespace ${1:`!v PathToNamespace(expand("%:h"))`};
 
 class ${2:`!v expand("%:t:r")`}
 {
